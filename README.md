@@ -1,5 +1,3 @@
-## Hey Yow! 👋
-
 <!--
 **michaelhikariadiana12-bot/michaelhikariadiana12-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <p align="center">
+<div align="center">
+  <h2>Hey Yow! 👋</h2>
 --><img width="500" height="250" alt="page fc GIF" src="https://github.com/user-attachments/assets/bb459529-c1b1-4284-b5ae-401eb0538972" />
-</p>
-
+</div>
 

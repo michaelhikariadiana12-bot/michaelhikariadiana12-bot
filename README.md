@@ -24,5 +24,5 @@ const minho = {
   pronouns: "He/Him",
   field: "Informatics ",
   focus: ["Web Development", "Object-Oriented Programming", "Data Structures"],
-  hobbies: ["Graphic Design", "Gaming", "Play Guitar"]
+  hobbies: ["Graphic Design", "Gaming"]
 };

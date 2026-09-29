@@ -1,7 +1,7 @@
 <div align="center">
 
-  <h1>Hey Yow! 👋 I'm Michael Hikari</h1>
-  <p><em>Informatics Student | Aspiring Software Engineer & Web Developer</em></p>
+  <h1>Hey Yow! 👋 I'm Minho</h1>
+  <p><em>Informatics Student </em></p>
 
   <br />
 
@@ -22,8 +22,7 @@
 ```bash
 const michael = {
   pronouns: "He/Him",
-  field: "Informatics & Computer Science",
+  field: "Informatics ",
   focus: ["Web Development", "Object-Oriented Programming", "Data Structures"],
-  currentLearning: "Deep diving into JavaScript & Full-stack Architecture",
-  hobbies: ["Graphic Design", "Gaming", "Exploring Music Progressions"]
+  hobbies: ["Graphic Design", "Gaming", "Play Guitar"]
 };

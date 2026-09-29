@@ -20,7 +20,7 @@
 ### 🚀 About Me
 
 ```bash
-const michael = {
+const minho = {
   pronouns: "He/Him",
   field: "Informatics ",
   focus: ["Web Development", "Object-Oriented Programming", "Data Structures"],
